@@ -1,4 +1,3 @@
-#%%
 
 #%%
 def split(path, nameOfSplit):
