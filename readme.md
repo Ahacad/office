@@ -5,9 +5,8 @@ The repository contains a series of programs that help you to accelerate your wo
 The programs are in the folder "programs"
 
 ## Programs list
-1. extractSubPdf.py - [x]
-2. windowsCap.py    - [ ]
-
+- [x] 1. extractSubPdf.py 
+- [ ] 2. windowsCap.py    
 ## Details
 
 ### 1. extractSubPdf.py 
