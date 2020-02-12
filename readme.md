@@ -7,6 +7,7 @@ The programs are in the folder "programs"
 ## Programs list
 - [x] 1. extractSubPdf.py 
 - [ ] 2. windowsCap.py    
+- [ ] 3. plotFileTree.py
 ## Details
 
 ### 1. extractSubPdf.py 
@@ -17,3 +18,7 @@ A program that extract a subset of pdfs from the original bigger one.
 ### 2. windowsCap.py
 
 A program to for screen cap.
+
+### 3. plotFileTree.py
+
+A program to plot the file tree for a folder, like that on a linux system.
