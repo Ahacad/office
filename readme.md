@@ -9,6 +9,7 @@ The programs are in the folder "programs"
 - [ ] 2. windowsCap.py    
 - [ ] 3. plotFileTree.py
 - [ ] 4. randomPicture
+
 ## Details
 
 ### 1. extractSubPdf.py 
@@ -26,3 +27,15 @@ A program to plot the file tree for a folder, like that on a linux system.
 
 ### 4. randomAvatar.py
 Generate a random picture that can be used as your avatar.
+
+## Only For Fun
+
+### List
+
+- [ ] 1. img2char
+
+
+### Intro 
+
+#### 1. img2char
+Transform a image into characters image.
